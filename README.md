@@ -1,1 +1,1 @@
-"Bienvenue dans le projet de l'etudiant B." 
+"Bienvenue dans notre projet Git realise en collaboration"
